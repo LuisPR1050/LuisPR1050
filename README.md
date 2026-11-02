@@ -56,7 +56,7 @@ Cabeceras de seguridad endurecidas (CSP estricta, HSTS, anti-clickjacking), fuen
 
 #### 🏠 MInmo — plataforma inmobiliaria
 CRM para un asesor inmobiliario independiente, en producción: acompaña cada inmueble desde la captación hasta el acta de entrega y genera automáticamente los documentos legales (contratos de corretaje, promesas de compraventa, otrosíes, recibos).
-Monolito modular con 7 módulos de dominio, API REST con seguridad JWT por roles, 49 migraciones versionadas con Flyway, pruebas BDD con Cucumber e integraciones con IA, SMS y almacenamiento S3.
+Monolito modular (captación, atención al cliente, negociación, documentación y marketing), API REST con seguridad JWT por roles, 49 migraciones versionadas con Flyway, pruebas BDD con Cucumber e integraciones con IA, SMS y almacenamiento S3.
 `Java 21` `Spring Boot` `Spring Security` `PostgreSQL` `Flyway` `React` `Docker`
 
 <img src="https://raw.githubusercontent.com/LuisPR1050/lurqen-web/main/public/projects/minmo-panel.png" alt="Panel de gestión de MInmo" width="720">
