@@ -54,12 +54,12 @@
 Landing de mi marca de software. Next.js 16, React 19, TypeScript y Tailwind 4, desplegada en Vercel.
 Cabeceras de seguridad endurecidas (CSP estricta, HSTS, anti-clickjacking), fuentes autoalojadas sin scripts de terceros, SEO técnico y animaciones accesibles.
 
-#### 🏠 MInmo — plataforma inmobiliaria
+#### 🏠 [MInmo — CRM inmobiliario](https://github.com/LuisPR1050/minmo-crm)
 CRM para un asesor inmobiliario independiente, en producción: acompaña cada inmueble desde la captación hasta el acta de entrega y genera automáticamente los documentos legales (contratos de corretaje, promesas de compraventa, otrosíes, recibos).
 Monolito modular (captación, atención al cliente, negociación, documentación y marketing), API REST con seguridad JWT por roles, 49 migraciones versionadas con Flyway, pruebas BDD con Cucumber e integraciones con IA, SMS y almacenamiento S3.
 `Java 21` `Spring Boot` `Spring Security` `PostgreSQL` `Flyway` `React` `Docker`
 
-<img src="https://raw.githubusercontent.com/LuisPR1050/lurqen-web/main/public/projects/minmo-panel.png" alt="Panel de gestión de MInmo" width="720">
+<img src="https://raw.githubusercontent.com/LuisPR1050/minmo-crm/main/docs/img/minmo-panel.png" alt="Panel de gestión de MInmo" width="720">
 
 #### 📈 Trading Risk Manager
 App para operar con disciplina: calculadora de riesgo y lotaje en tiempo real, journal de operaciones, plan de trading y dashboard con P&L, win rate, expectancy y curva de equity.
